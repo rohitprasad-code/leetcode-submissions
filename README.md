@@ -1,5 +1,5 @@
 # LeetCode Solutions — @rohitprasad-code
-Synced automatically from LeetCode.com · Repository: leetcode-solutions
+Synced automatically from LeetCode.com · Repository: leetcode-submissions
 
 ### What is this?
 LeetCode is a platform for preparing coding interviews. This repository is automatically populated with your accepted solutions using the **[LeetCode Sync Extension](https://github.com/rohitprasad/leet-sync)**.
