@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 2070419806
-  Date: 17/07/2026, 03:03:12
-  Runtime: 79 ms
-  Memory: 155.7 MB
+  LeetCode Submission ID: 2070422477
+  Date: 17/07/2026, 03:10:35
+  Runtime: 63 ms
+  Memory: 155.6 MB
   Difficulty: Easy
-  Problem Link: https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/submissions/2070419806/?envType=daily-question&envId=2026-07-16
+  Problem Link: https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/submissions/2070422477/?envType=daily-question&envId=2026-07-16
 */
 
 class Solution {
