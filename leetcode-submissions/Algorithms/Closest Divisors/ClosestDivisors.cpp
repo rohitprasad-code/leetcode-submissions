@@ -1,3 +1,12 @@
+/*
+  LeetCode Submission ID: 2070425097
+  Date: 17/07/2026, 03:18:08
+  Runtime: 7 ms
+  Memory: 8.3 MB
+  Difficulty: Medium
+  Problem Link: https://leetcode.com/problems/closest-divisors/submissions/2070425097/
+*/
+
 class Solution {
 private:
     vector<int> closestPair(int target) {
