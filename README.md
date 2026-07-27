@@ -2,3 +2,4 @@
 | # | Title | Solution | Difficulty | Language |
 |---|---|---|---|---|
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/2081338852/?envType=daily-question&envId=2026-07-26) | [Link](https://github.com/rohitprasad-code/leetcode-submissions/blob/main/leetcode-submissions/Algorithms/Maximum%20Product%20of%20Three%20Numbers/MaximumProductofThreeNumbers.cpp) | Easy | cpp |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2083281518/?envType=daily-question&envId=2026-07-27) | [Link](https://github.com/rohitprasad-code/leetcode-submissions/blob/main/leetcode-submissions/Algorithms/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/MaximumProductofTwoElementsinanArray.cpp) | Easy | cpp |
