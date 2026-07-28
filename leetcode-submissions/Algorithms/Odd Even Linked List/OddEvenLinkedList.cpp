@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 2085398377
-  Date: 29/07/2026, 05:01:19
-  Runtime: 0 ms
-  Memory: 15.6 MB
+  LeetCode Submission ID: 921484177
+  Date: 29/07/2026, 05:01:29
+  Runtime: 11 ms
+  Memory: 10.5 MB
   Difficulty: Medium
-  Problem Link: https://leetcode.com/problems/odd-even-linked-list/submissions/2085398377/
+  Problem Link: https://leetcode.com/problems/odd-even-linked-list/submissions/921484177/
 */
 
 /**
@@ -20,20 +20,26 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if(head == NULL || head->next == NULL) return head;
-
-        ListNode* odd = head; // 1st odd node
-        ListNode* even = head->next; // 1st even node
-        ListNode* evenHead = even; // save head of even list
-
-        while(even != NULL && even->next != NULL) {
-            odd->next = even->next; // connect curr odd to next odd node
-            odd = odd->next;
-
-            even->next = odd->next; // connect curr even to next even node
-            even = even->next;
+        if (!head || !(head->next)) {
+            return head;
         }
-        odd->next = evenHead; // attach even list after odd list
-        return head;
+
+        ListNode * oddPosition = head;
+        ListNode * oddHead = oddPosition;
+
+        ListNode * evenPosition = head->next;
+        ListNode * evenHead = evenPosition;
+
+        while (evenPosition && evenPosition->next) {
+            oddPosition->next = oddPosition->next->next;
+            evenPosition->next = evenPosition->next->next;
+
+            oddPosition = oddPosition->next;
+            evenPosition = evenPosition->next;
+        }
+
+        oddPosition->next = evenHead;
+
+        return oddHead;
     }
 };
