@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 2087676007
-  Date: 30/07/2026, 20:46:33
+  LeetCode Submission ID: 2088088598
+  Date: 31/07/2026, 04:22:20
   Runtime: 0 ms
-  Memory: 8.1 MB
+  Memory: 8.5 MB
   Difficulty: Easy
-  Problem Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/submissions/2087676007/?envType=daily-question&envId=2026-07-30
+  Problem Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/submissions/2088088598/?envType=daily-question&envId=2026-07-30
 */
 
 class Solution {
