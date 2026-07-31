@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 1152220274
-  Date: 31/07/2026, 11:42:09
-  Runtime: 123 ms
-  Memory: 27 MB
-  Difficulty: Medium
-  Problem Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/1152220274/?envType=daily-question&envId=2026-07-31
+  LeetCode Submission ID: 2088401103
+  Date: 31/07/2026, 11:57:50
+  Runtime: 30 ms
+  Memory: 26.6 MB
+  Difficulty: Easy
+  Problem Link: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2088401103/?envType=daily-question&envId=2026-07-31
 */
 
 class Solution {
