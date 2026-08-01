@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 2090071481
-  Date: 01/08/2026, 22:06:56
-  Runtime: 2 ms
-  Memory: 9.4 MB
-  Difficulty: Easy
-  Problem Link: https://leetcode.com/contest/biweekly-contest-188/problems/count-valid-prefixes/submissions/2090071481/
+  LeetCode Submission ID: 2090523050
+  Date: 02/08/2026, 01:17:47
+  Runtime: 0 ms
+  Memory: 9.6 MB
+  Difficulty: Medium
+  Problem Link: https://leetcode.com/problems/count-valid-prefixes/submissions/2090523050/
 */
 
 class Solution {
