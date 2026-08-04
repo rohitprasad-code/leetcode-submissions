@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 2093274801
-  Date: 04/08/2026, 05:57:34
-  Runtime: 3 ms
-  Memory: 130.4 MB
+  LeetCode Submission ID: 2093275450
+  Date: 04/08/2026, 05:59:20
+  Runtime: 16 ms
+  Memory: 130.2 MB
   Difficulty: Easy
-  Problem Link: https://leetcode.com/problems/stone-game-iii/submissions/2093274801/?envType=daily-question&envId=2026-08-03
+  Problem Link: https://leetcode.com/problems/stone-game-iii/submissions/2093275450/?envType=daily-question&envId=2026-08-03
 */
 
 class Solution {
