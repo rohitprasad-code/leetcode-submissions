@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 2072721790
-  Date: 19/07/2026, 00:26:13
-  Runtime: 140 ms
-  Memory: 116.2 MB
-  Difficulty: Medium
-  Problem Link: https://leetcode.com/problems/cinema-seat-allocation/submissions/2072721790/
+  LeetCode Submission ID: 2112414989
+  Date: 19/08/2026, 13:29:21
+  Runtime: 127 ms
+  Memory: 116.1 MB
+  Difficulty: Easy
+  Problem Link: https://leetcode.com/problems/cinema-seat-allocation/submissions/2112414989/?envType=daily-question&envId=2026-08-19
 */
 
 class Solution {
